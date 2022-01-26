@@ -1,4 +1,11 @@
 ### Hello there 👋
+- 📚 Learn everday.
+- 🖥️ Currently working on a visualisation of the *bubblesort* algorithm.
+- 📂 [Events](https://github.com/jonasliendl/events) is the current big project I'm working on with two other contributors.
+- 👤 If you want to reach out to me, write me a message via twitter DMs. My twitter account is linked down below.
+- 🐦 [Visit my twitter account.](https://twitter.com/jonas_liendl)
+
+![Banner](https://user-images.githubusercontent.com/57270170/151212767-7716a45d-3d56-4736-9f84-84213c7a3156.png)
 
 <!--
 **jonasndl/jonasndl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
