@@ -1,5 +1,5 @@
 ### Hello there and welcome to my github page 👋
-- 📚 Learn everday.
+- 📚 Learn everyday.
 - 🖥️ Currently working on a visualisation of the *bubblesort* algorithm.
 - 📂 [Events](https://github.com/jonasliendl/events) is the current big project I'm working on with two other contributors.
 - 👤 If you want to reach out to me, write me a message via twitter DMs. My twitter account is linked down below.
