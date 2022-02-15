@@ -5,7 +5,8 @@
 - 👤 If you want to reach out to me, write me a message via twitter DMs. My twitter account is linked down below.
 - 🐦 [Visit my twitter account.](https://twitter.com/jonas_liendl)
 
-![Banner](https://user-images.githubusercontent.com/57270170/151212767-7716a45d-3d56-4736-9f84-84213c7a3156.png)
+![energy_banner](https://user-images.githubusercontent.com/57270170/154100563-0bd5e767-3247-4938-be66-51b22a94f1a9.png)
+
 
 <!--
 **jonasndl/jonasndl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
