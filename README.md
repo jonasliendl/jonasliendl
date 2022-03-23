@@ -1,7 +1,6 @@
 ### Hello there and welcome to my github page 👋
 - 📚 Learn everyday.
-- 🖥️ Currently working on the **Events** project.
-- 📂 [Events](https://github.com/jonasliendl/events) is the current big project I'm working on with two other contributors.
+- 🖥️ Currently learning about machine learning and deep learning.
 - 👤 If you want to reach out to me, write me a message via twitter DMs. My twitter account is linked down below.
 - 🐦 [Visit my twitter account.](https://twitter.com/jonas_liendl)
 
