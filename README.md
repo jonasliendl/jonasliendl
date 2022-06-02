@@ -1,6 +1,6 @@
 ### Hello there and welcome to my github page 👋
 - 📚 Learn everyday.
-- 🖥️ Currently learning about machine learning and deep learning.
+- 🖥️ Currently learning about system design and rocketry.
 - 👤 If you want to reach out to me, write me a message via twitter DMs. My twitter account is linked down below.
 - 🐦 [Visit my twitter account.](https://twitter.com/jonas_liendl)
 
