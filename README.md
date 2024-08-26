@@ -1,5 +1,5 @@
 ## Hey 👋
-**I'm Jonas** - Currently I'm studying **💻 Computer Science** in the 4th semester at the **👨‍🎓 Berlin School of Economics & Law** in **🇩🇪 Berlin, Germany**. This study is part of the 👨‍💻 **Future Talent Program** at **Tesla** in Berlin, a collaboration between university and work in Germany called _"Dual Study"_.<br/>
+**I'm Jonas** - Currently I'm studying **💻 Computer Science** in the 5th semester at the **👨‍🎓 Berlin School of Economics & Law** in **🇩🇪 Berlin, Germany**. This study is part of the 👨‍💻 **Future Talent Program** at **Tesla** in Berlin, a collaboration between university and work in Germany called _"Dual Study"_.<br/>
 Besides work and study, I'm evolving and expanding my skill set by working on private projects, accomplishing courses, and reading books.<br/>
 Regarding Computer Science, my main focus is on ⚙️ **Backend** and 🤖 **Machine Learning** technologies.<br/>
 Also, besides Computer Science, I'm highly interested in fields like 📈 **Finance and Economics** and 🚀 **Aerospace Engineering**.
