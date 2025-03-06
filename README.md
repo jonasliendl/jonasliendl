@@ -1,10 +1,9 @@
 ## Hey 👋
-**I'm Jonas** - Currently I'm studying **💻 Computer Science** in the 5th semester at the **👨‍🎓 Berlin School of Economics & Law** in **🇩🇪 Berlin, Germany**. This study is part of the 👨‍💻 **Future Talent Program** at **Tesla** in Berlin, a collaboration between university and work in Germany called _"Dual Study"_.<br/>
+**I'm Jonas** - Currently I'm studying **💻 Computer Science** in the 6th semester at the **👨‍🎓 Berlin School of Economics & Law** in **🇩🇪 Berlin, Germany**. This study is part of the 👨‍💻 **Future Talent Program** at **Tesla** in Berlin, a collaboration between university and work in Germany called _"Dual Study"_.<br/>
 Besides work and study, I'm evolving and expanding my skill set by working on private projects, accomplishing courses, and reading books.<br/>
-Regarding Computer Science, my main focus is on ⚙️ **Backend** and 🤖 **Machine Learning** technologies.<br/>
-Also, besides Computer Science, I'm highly interested in fields like 🦾 **Autonomous Systems** and 🚀 **Aerospace Engineering**.
+My main focus and interest lays in **Embedded Systems**, **Vision AI**, **Autonomous Systems** like **Robotic Systems** and **Self-Driving Vehicles**, as well as **Backend Services**.<br/>
 <br/><br/>
-_Below you can see my current skill set. In some languages or technologies I'm more fluent than others. However, I can apply all of the skills down below onto real-world use cases._
+_Below, you can see my current skill set. In some languages or technologies, I'm more fluent than others. However, I can apply all of the skills down below to real-world use cases._
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,7 +15,7 @@ _Below you can see my current skill set. In some languages or technologies I'm m
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasliendl&layout=compact&theme=github_dark)
 
 <h3 align="center">
-  💬 Contact me via following platforms.
+  💬 Contact me via the following platforms.
 </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/jonasliendl/">
